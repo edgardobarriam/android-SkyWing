@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+    <!--The layout renders each row in navigation drawer menu.
+    If you want to customize the navigation drawer menu item, you have to do the changes in this file.-->
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="wrap_content"
+    android:clickable="true">
+
+    <TextView
+        android:id="@+id/title"
+        android:layout_width="fill_parent"
+        android:layout_height="wrap_content"
+        android:paddingLeft="30dp"
+        android:paddingTop="10dp"
+        android:paddingBottom="10dp"
+        android:textSize="15sp"
+        android:textStyle="bold" />
+
+</RelativeLayout>

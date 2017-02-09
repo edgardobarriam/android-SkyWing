@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">SkyWing</string>
+    <string name="action_search">Buscar</string>
+    <string name="action_settings">Preferencias</string>
+    <string name="drawer_close">Cerrar</string>
+    <string name="drawer_open">Abrir</string>
+    <string name="nav_item_home">SkyWing</string>
+    <string name="nav_item_settings">Preferencias</string>
+    <string name="title_activity_maps"></string>
+    <string name="title_home">SkyWing</string>
+    <string name="title_settings">Preferencias</string>
+    <string name="todo">TODO</string>
+</resources>
